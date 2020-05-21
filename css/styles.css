@@ -1,18 +1,9 @@
 
-
-#cover-video {
-  /* position: fixed; */
-  text-align: center;
-  margin: auto;
-  bottom: 0;
-  min-width: 50%;
-  min-height: 100%;
-}
-
 body {
   margin: 0;
   background: #000;
 }
+
 video {
     position: fixed;
     top: 50%;
